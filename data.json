@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "username": "adnan@1234",
+      "password": 12345678,
+      "email": "contactadnan@gmail.com",
+      "id": "5b59"
+    },
+    {
+      "username": "aman@9876",
+      "password": 123456,
+      "email": "contactaman@gmail.com",
+      "id": "dbc9"
+    },
+    {
+      "username": "Sahil@5634",
+      "password": 123456789,
+      "email": "contacSahil@gmail.com",
+      "id": "774b"
+    },
+    {
+      "username": "Faizan@6541",
+      "password": 1234567,
+      "email": "contactFaizan@gmail.com",
+      "id": "2260"
+    },
+    {
+      "id": "bc41",
+      "username": "ss18if01712",
+      "password": "213131",
+      "email": "contactadnan19@gmail.com"
+    },
+    {
+      "id": "61ea",
+      "username": "Adnan123",
+      "password": "987654322",
+      "email": "ss18if017@gmail.com"
+    },
+    {
+      "id": "2e86",
+      "username": "aman786",
+      "password": "987654",
+      "email": "aman123@gmail.com"
+    },
+    {
+      "id": "4c63",
+      "username": "Adnan Khan",
+      "password": "123456",
+      "email": "contactadnan19@gmail.com"
+    },
+    {
+      "id": "d80d",
+      "username": "aman",
+      "password": "123",
+      "email": "aman123@gmail.com"
+    },
+    {
+      "id": "04c8",
+      "username": "adnan",
+      "password": "adnan",
+      "email": "ss18if017@gmail.com"
+    }
+  ]
+}
